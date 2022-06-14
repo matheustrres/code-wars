@@ -1,0 +1,7 @@
+{
+  "name": "code-wars",
+  "description": "CodeWars challenge codes",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}
