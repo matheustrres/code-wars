@@ -1,3 +1,10 @@
+/**
+ * This code snippet is based on one shared on LinkedIn and it helped 
+ * me handling arrays of numbers
+ * 
+ * https://shorturl.at/chBQW
+*/
+
 const numbersSorter = (numbArr) => {
   for (let i = 0; i < numbArr.length; i++) {
     if (numbArr[i] > numbArr[i + 1]) {
